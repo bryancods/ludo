@@ -1,0 +1,36 @@
+---
+# Members of your group.
+group:
+  - name: Stephanie Dyer 
+    netid: sd625
+  - name: Bryan Kongnyu 
+    netid: bk386
+  - name: Daniela Carmona Lopez Mestre
+    netid: dc692
+  - name: Akua Robinson
+    netid: aor6
+# Your PM.
+pm:
+  name: Ariela Gettig
+  netid: aqg3
+# Set to false if you don't want your gallery entry to be public.
+publish: false
+# Pithy title
+title: "The Game of Ludo"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/aor6/CS-3110-The-Bold-type.git"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: " "
+# Write a short, attention-grabbing description of your project.
+desc: >
+This project simulates the operation of a video game called Ludo. 
+The interface shows the ludo board with a dice, 4 sections and 16 pieces, 
+including the color of the different sections. 
+The users will be able to interactively choose where to move their pieces, 
+and to interactively play with the pieces through the ludo board. 
+As the users play, the pieces advance and have to go through the 
+whole board without being captured by another user. 
+If a user is captured then they will be sent back home.
+To win the game, all four of your pieces must go through the board, 
+and be in the final position.
+  
